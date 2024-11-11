@@ -5,7 +5,7 @@ A simple Python package for SQLite operations with Pydantic models.
 ## Installation 
 
 ```bash
-pip install sqlite-operations
+pip install badorm
 ```
 
 ## Usage
